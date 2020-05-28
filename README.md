@@ -1,4 +1,4 @@
-#Project overview
+# Project overview
 I am going to investigate seattle aiabnb datasets found on Kaggle, to discover how's the this business in Seattle. 
 # CRISP-DM
 This is the project include how to dealing with data in CRISP-DM Process (Cross Industry Process for Data Mining) for data science or data analytics .  
@@ -27,5 +27,5 @@ Question 5  How price correlate with others factors ?
 For details and blog post, please review on https://medium.com/@liuyijob/understanding-about-seattle-airbnb-market-8d317df7d8ee?sk=da9d4ce1463c7cd68c98f013a8e82259
 # Data resource:
 Data sourced from kaggle : https://www.kaggle.com/airbnb/seattle/data
-#Acknowledgemnts:
+# Acknowledgemnts:
 The data for this project is available on Kaggle and was prepared by leo liu.  thankss 
