@@ -1,6 +1,6 @@
 #Project overview
 I am going to investigate seattle aiabnb datasets found on Kaggle, to discover how's the this business in Seattle. 
-# CRISP-DM(resach frame)
+# CRISP-DM
 This is the project include how to dealing with data in CRISP-DM Process (Cross Industry Process for Data Mining) for data science or data analytics .  
 
 # Requirements
